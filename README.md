@@ -4,5 +4,5 @@ so in the main function expect to perform some zero padding to achieve this.   T
 
 Both FFT and IFFT work as intended and the original derivations are included in my final seminar report attached along with some neat digital signal processing applications.  (Recommended to use Hamming window to split up initial audio signal segments as outlined in report for maximum noise removal)
 
-The report is unfortunately written in Microsoft Word and not LaTeX due to requirements.  Additionally, names, supplimental code, and audio files have been omitted.
+The report is unfortunately written in Microsoft Word and not LaTeX due to requirements.  Additionally, names, supplemental code, and audio files have been omitted.
 Overall, cool history overview of one of my favorite algorithms extensively used in the DSP field.  
